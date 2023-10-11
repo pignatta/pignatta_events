@@ -1,4 +1,6 @@
-[
+{
+  events:
+  [
   {
     "id": 5928101,
     "category": "Sbimbocciate",
@@ -33,3 +35,4 @@
     "organizer": "Ciaccio"
   }
 ]
+}
