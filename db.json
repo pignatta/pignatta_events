@@ -1,38 +1,37 @@
 {
-  "events":
-  [
-  {
-    "id": 5928101,
-    "category": "Sbimbocciate",
-    "title": "Serata stinchi",
-    "description": "Serata enogastronomica con stinchi di maiale e patate arrosto",
-    "location": "CVA Mocaiana",
-    "date": "Venerdì 13 Ottobre 2023",
-    "time": "20:00",
-    "petsAllowed": "Sie...",
-    "organizer": "Cucca"
-  },
-  {
-    "id": 5928102,
-    "category": "Sbimbocciate",
-    "title": "Pizzata",
-    "description": "Serata giropizza con birra a fiumi",
-    "location": "Agriturismo Fontechiara",
-    "date": "Sabato 14 Ottobre 2023",
-    "time": "20:00",
-    "petsAllowed": "Si ie da gusto...",
-    "organizer": "Gianni"
-  },
-  {
-    "id": 5928103,
-    "category": "Lavori",
-    "title": "Fugatura pavimento cucinone",
-    "description": "Fugatura del pavimento del cucinone con Massimo de Bacchino",
-    "location": "Chiesa Monteluiano",
-    "date": "Sabato 14 Ottobre 2023",
-    "time": "15:00",
-    "petsAllowed": "",
-    "organizer": "Ciaccio"
-  }
-]
+  "events": [
+    {
+      "id": 5928101,
+      "category": "Sbimbocciate",
+      "title": "Serata stinchi",
+      "description": "Serata enogastronomica con stinchi di maiale e patate arrosto",
+      "location": "CVA Mocaiana",
+      "date": "Venerdì 13 Ottobre 2023",
+      "time": "20:00",
+      "petsAllowed": "Sie...",
+      "organizer": "Cucca"
+    },
+    {
+      "id": 5928102,
+      "category": "Sbimbocciate",
+      "title": "Pizzata",
+      "description": "Serata giropizza con birra a fiumi",
+      "location": "Agriturismo Fontechiara",
+      "date": "Sabato 14 Ottobre 2023",
+      "time": "20:00",
+      "petsAllowed": "Si ie da gusto...",
+      "organizer": "Gianni"
+    },
+    {
+      "id": 5928103,
+      "category": "Lavori",
+      "title": "Fugatura pavimento cucinone",
+      "description": "Fugatura del pavimento del cucinone con Massimo de Bacchino",
+      "location": "Chiesa Monteluiano",
+      "date": "Sabato 14 Ottobre 2023",
+      "time": "15:00",
+      "petsAllowed": "",
+      "organizer": "Ciaccio"
+    }
+  ]
 }
