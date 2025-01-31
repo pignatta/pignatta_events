@@ -1,37 +1,170 @@
 {
   "events": [
-    {
-      "id": 5928101,
-      "category": "Sbimbocciate",
-      "title": "Serata stinchi",
-      "description": "Serata enogastronomica con stinchi di maiale e patate arrosto",
-      "location": "CVA Mocaiana",
-      "date": "Venerdì 13 Ottobre 2023",
-      "time": "20:00",
-      "petsAllowed": "Sie...",
-      "organizer": "Cucca"
-    },
-    {
-      "id": 5928102,
-      "category": "Sbimbocciate",
-      "title": "Pizzata",
-      "description": "Serata giropizza con birra a fiumi",
-      "location": "Agriturismo Fontechiara",
-      "date": "Sabato 14 Ottobre 2023",
-      "time": "20:00",
-      "petsAllowed": "Si ie da gusto...",
-      "organizer": "Gianni"
-    },
-    {
-      "id": 5928103,
-      "category": "Lavori",
-      "title": "Fugatura pavimento cucinone",
-      "description": "Fugatura del pavimento del cucinone con Massimo de Bacchino",
-      "location": "Chiesa Monteluiano",
-      "date": "Sabato 14 Ottobre 2023",
-      "time": "15:00",
-      "petsAllowed": "",
-      "organizer": "Ciaccio"
-    }
-  ]
+  {
+    "id": 5928101,
+    "category": "Sbimbocciate",
+    "title": "Serata stinchi",
+    "description": "Serata enogastronomica con stinchi di maiale e patate arrosto",
+    "location": "CVA Mocaiana",
+    "date": "Venerdì 13 Ottobre 2023",
+    "time": "20:00",
+    "petsAllowed": "Sie...",
+    "organizer": "Cucca"
+  },
+  {
+    "id": 5928102,
+    "category": "Sbimbocciate",
+    "title": "Pizzata",
+    "description": "Serata giropizza con birra a fiumi",
+    "location": "Agriturismo Fontechiara",
+    "date": "Sabato 14 Ottobre 2023",
+    "time": "20:00",
+    "petsAllowed": "Si ie da gusto...",
+    "organizer": "Gianni"
+  },
+  {
+    "id": 5928103,
+    "category": "Lavori",
+    "title": "Fugatura pavimento cucinone",
+    "description": "Fugatura del pavimento del cucinone con Massimo de Bacchino",
+    "location": "Chiesa Monteluiano",
+    "date": "Sabato 14 Ottobre 2023",
+    "time": "15:00",
+    "petsAllowed": "",
+    "organizer": "Ciaccio"
+  },
+  {
+    "id": 5928104,
+    "category": "Lavori",
+    "title": "Sistemazione recinto pollaio",
+    "description": "Aggiustiamo il recinto del pollaio prima che le volpi facciano festa",
+    "location": "Fattoria La Collina",
+    "date": "Domenica 15 Ottobre 2023",
+    "time": "09:00",
+    "petsAllowed": "Solo galline",
+    "organizer": "Stefano"
+  },
+  {
+    "id": 5928105,
+    "category": "Sbimbocciate",
+    "title": "Grigliata sotto le stelle",
+    "description": "Carne alla brace e vino rosso per tutti!",
+    "location": "Casa di Marco",
+    "date": "Sabato 21 Ottobre 2023",
+    "time": "19:30",
+    "petsAllowed": "Pure i cani mangiano",
+    "organizer": "Marco"
+  },
+  {
+    "id": 5928106,
+    "category": "Lavori",
+    "title": "Taglio siepi e potatura alberi",
+    "description": "Rendiamo il giardino un posto vivibile!",
+    "location": "Casa di Luca",
+    "date": "Domenica 22 Ottobre 2023",
+    "time": "08:30",
+    "petsAllowed": "Se non scappano",
+    "organizer": "Luca"
+  },
+  {
+    "id": 5928107,
+    "category": "Vita in campagna",
+    "title": "Raccolta castagne",
+    "description": "Passeggiata nei boschi e raccolta castagne per tutti",
+    "location": "Bosco di Casacastalda",
+    "date": "Domenica 22 Ottobre 2023",
+    "time": "10:00",
+    "petsAllowed": "Se non rubano le castagne",
+    "organizer": "Michela"
+  },
+  {
+    "id": 5928108,
+    "category": "Sbimbocciate",
+    "title": "Cena cinghiale e polenta",
+    "description": "Serata a base di cinghiale, polenta e vino",
+    "location": "Circolo di San Martino",
+    "date": "Sabato 28 Ottobre 2023",
+    "time": "20:00",
+    "petsAllowed": "Solo cinghiali invitati",
+    "organizer": "Giovanni"
+  },
+  {
+    "id": 5928109,
+    "category": "Lavori",
+    "title": "Riparazione trattore",
+    "description": "Aggiustiamo il trattore di Gigi che non parte mai",
+    "location": "Cascina di Gigi",
+    "date": "Sabato 28 Ottobre 2023",
+    "time": "09:00",
+    "petsAllowed": "Solo chi aiuta",
+    "organizer": "Gigi"
+  },
+  {
+    "id": 5928110,
+    "category": "Vita in campagna",
+    "title": "Vendemmia collettiva",
+    "description": "Raccogliamo l'uva e poi festeggiamo con un pranzo in vigna",
+    "location": "Vigna di Francesco",
+    "date": "Domenica 29 Ottobre 2023",
+    "time": "07:00",
+    "petsAllowed": "Si, ma occhio all'uva",
+    "organizer": "Francesco"
+  },
+  {
+    "id": 5928111,
+    "category": "Sbimbocciate",
+    "title": "Festa della birra artigianale",
+    "description": "Degustazione di birre locali con stuzzichini",
+    "location": "Birrificio Monti",
+    "date": "Sabato 4 Novembre 2023",
+    "time": "18:00",
+    "petsAllowed": "Solo se non bevono",
+    "organizer": "Andrea"
+  },
+  {
+    "id": 5928112,
+    "category": "Lavori",
+    "title": "Costruzione barbecue",
+    "description": "Mettiamo su un barbecue di mattoni per le future grigliate",
+    "location": "Giardino di Paolo",
+    "date": "Domenica 5 Novembre 2023",
+    "time": "09:30",
+    "petsAllowed": "Se non si mettono in mezzo",
+    "organizer": "Paolo"
+  },
+  {
+    "id": 5928113,
+    "category": "Vita in campagna",
+    "title": "Giornata del miele",
+    "description": "Scopriamo come si fa il miele con una visita all'apiario",
+    "location": "Fattoria Dolce Nettare",
+    "date": "Sabato 11 Novembre 2023",
+    "time": "10:00",
+    "petsAllowed": "Solo api ammesse",
+    "organizer": "Marta"
+  },
+  {
+    "id": 5928114,
+    "category": "Lavori",
+    "title": "Pulizia del fosso",
+    "description": "Liberiamo il fosso dall'erba alta e dai rami",
+    "location": "Terreni di Stefano",
+    "date": "Domenica 12 Novembre 2023",
+    "time": "08:00",
+    "petsAllowed": "Se aiutano",
+    "organizer": "Stefano"
+  },
+  {
+    "id": 5928115,
+    "category": "Sbimbocciate",
+    "title": "Maialata",
+    "description": "Maiale arrosto e vino nuovo per una serata epica",
+    "location": "Casa di Alessio",
+    "date": "Sabato 18 Novembre 2023",
+    "time": "19:30",
+    "petsAllowed": "Meglio di no",
+    "organizer": "Alessio"
+  }
+]
+
 }
